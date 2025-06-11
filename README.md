@@ -1,1 +1,1 @@
-# part1
+# All exercises for Part one of fullstackopen
